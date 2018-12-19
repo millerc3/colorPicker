@@ -16,6 +16,9 @@ Python Version: 3.6.7
 
 Feel free to download the script and run it in the command line: python3 colorPicker.py, or download the zip file and run the executable "colorPicker.exe"
 
+link to executable:
+https://www.dropbox.com/s/ormyot2e731eac9/colorPicker.zip?dl=0
+
 ## Running the program
 
 Upon running the program, a pygame window will open with the current random color to be classified.  On first run, the program will be unable to identify any colors other than white.  Click the colored buttons under the color window to teach the computer how to classify the colors.  Once the user has supplied the program with sufficient learning material, they can close the program and restart it.  The program will re-fit the new data to better classify the colors.
