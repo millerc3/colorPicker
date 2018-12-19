@@ -328,5 +328,3 @@ def gameLoop():
 gameLoop()
 pygame.quit()
 file.close()
-
-#pyinstaller -w -F colorPicker.py
