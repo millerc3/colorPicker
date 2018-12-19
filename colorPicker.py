@@ -198,8 +198,6 @@ x_train = tf.keras.utils.normalize(x_train, axis=1)
 
 # create model
 model = tf.keras.models.Sequential()
-# try and get rid of flatten, want to see what it does
-model.add(tf.keras.layers.Flatten())
 model.add(tf.keras.layers.Dense(16, activation=tf.nn.relu))
 model.add(tf.keras.layers.Dense(16, activation=tf.nn.relu))
 model.add(tf.keras.layers.Dense(numClassifications+1, activation=tf.nn.softmax))
