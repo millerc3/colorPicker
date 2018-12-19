@@ -14,7 +14,7 @@ Python Version: 3.6.7
 *  tensorflow/keras
 *  pygame
 
-Feel free to download the script and run it in the command line: python3 colorPicker.py, or download the zip file and run the executable.  
+Feel free to download the script and run it in the command line: python3 colorPicker.py, or download the zip file and run the executable "colorPicker.exe"
 
 ## Running the program
 
