@@ -9,6 +9,7 @@ As the program is ran more times, the model will become better at identifying th
 ## Getting Started
 
 Python Version: 3.6.7
+
 3rd Party libraries:
 *  numpy
 *  tensorflow/keras
